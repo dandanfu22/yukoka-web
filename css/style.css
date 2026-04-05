@@ -99,6 +99,7 @@ header h1 {
 .inquiry p {
     padding: 10px 0;
 }
+
 /* ソーシャルメディアアイコン */
 .sns-p {
     padding-top: 20px;
@@ -198,7 +199,7 @@ footer {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch; /* iOSの慣性スクロール */
+  -webkit-overflow-scrolling: touch; 
 }
 .staff img {
     /* padding: 0 60px;
